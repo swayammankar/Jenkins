@@ -1,4 +1,4 @@
-public class Addition {
+public class Main {
     public static void main(String[] args) {
         // Print a greeting
         System.out.println("Hello, Java world!");
